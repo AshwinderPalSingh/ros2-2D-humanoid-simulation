@@ -2,13 +2,14 @@
 
 A comprehensive 2D humanoid robot simulation framework with walking capabilities, keyboard control, and coordinate-based navigation. This project provides both standalone Python implementations and ROS 2 integration for educational and research purposes.
 
-![Humanoid Robot Simulation](images/robot_simulation_overview.png)
+![Humanoid Robot Simulation](images/imple.png)
 
 
 
 ## Overview
 This project implements a 2D humanoid robot simulation with realistic walking gait patterns, joint articulation, and multiple control interfaces. The simulation includes standalone Python applications using Pygame and a ROS 2 package for robotics workflows.
-
+![Humanoid Robot Simulation](images/walk.png)
+![Humanoid Robot Simulation](images/stls.png)
 The humanoid robot features:
 - Anatomically proportioned body segments (head, torso, arms, legs, feet)
 - Articulated joints with realistic movement constraints
