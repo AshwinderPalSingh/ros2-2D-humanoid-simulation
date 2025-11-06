@@ -68,7 +68,7 @@ The humanoid robot features:
 ## Installation
 ### Quick Start (Standalone Python)
 ```bash
-git clone https://github.com/yourusername/humanoid-robot-2d.git
+git clone [https://github.com/AshwinderPalSingh/humanoid-robot-2d.git]
 cd humanoid-robot-2d
 pip3 install -r requirements.txt
 python3 src/walking_robot.py
